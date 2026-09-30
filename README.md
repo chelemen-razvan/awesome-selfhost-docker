@@ -236,6 +236,7 @@
 | [PostHog](https://github.com/PostHog/posthog) | Open-source product analytics |
 | [Fathom](https://github.com/usefathom/fathom) | Simple, privacy-focused website analytics |
 | [Vince](https://github.com/vinceanalytics/vince) | Self Hosted Alternative To Google Analytics |
+| [Grovs](https://github.com/grovs-io/self-host) | Deep links, deferred deep links and link analytics for mobile apps |
 
 ## Miscellaneous
 
